@@ -260,13 +260,9 @@ https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/httpd-status.
 
 https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/Website.png
 
-### Backup Script
-
-![Backup Script](screenshots/07-backup-script.png)
-
 ### S3 Backup
 
-![S3 Backup](screenshots/08-s3-backup.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/Backups.png
 
 ## Learning Outcomes
 
