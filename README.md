@@ -246,7 +246,7 @@ https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/IAM%20%20Role
 
 ### S3 Bucket
 
-![S3 Bucket](screenshots/03-s3-bucket.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/s3%20Bucket.png
 
 ### AWS CLI
 
