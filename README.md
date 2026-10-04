@@ -5,10 +5,6 @@
 
 This project demonstrates automated backup of files from an AWS EC2 Linux server to Amazon S3 using AWS CLI and Bash scripting.
 
-## Architecture
-
-![Architecture Diagram](architecture/architecture-diagram.png)
-
 ## AWS Services Used
 =======
 # AWS EC2 + S3 Secure Backup System
