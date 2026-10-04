@@ -258,7 +258,7 @@ https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/httpd-status.
 
 ### Web Application
 
-![Website](screenshots/06-website.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/Website.png
 
 ### Backup Script
 
