@@ -242,7 +242,7 @@ https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/EC2%20Instanc
 
 ### IAM Role
 
-![IAM Role](screenshots/02-iam-role.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/IAM%20%20Role.png
 
 ### S3 Bucket
 
