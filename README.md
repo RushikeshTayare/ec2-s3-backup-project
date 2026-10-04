@@ -238,7 +238,7 @@ The project follows these security practices:
 
 ### EC2 Instance
 
-![EC2 Instance](screenshots/01-ec2-instance.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/EC2%20Instances.png
 
 ### IAM Role
 
