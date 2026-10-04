@@ -254,7 +254,7 @@ https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/AWS%20cli.png
 
 ### Apache Web Server
 
-![Apache](screenshots/05-apache.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/httpd-status.png
 
 ### Web Application
 
