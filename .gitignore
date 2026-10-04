@@ -1,0 +1,8 @@
+*.pem
+*.ppk
+*.key
+.env
+.aws/
+credentials
+config
+*.log
