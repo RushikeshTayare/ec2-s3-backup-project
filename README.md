@@ -250,7 +250,7 @@ https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/s3%20Bucket.p
 
 ### AWS CLI
 
-![AWS CLI](screenshots/04-aws-cli.png)
+https://github.com/RushikeshTayare/ec2-s3-backup-project/blob/main/AWS%20cli.png
 
 ### Apache Web Server
 
